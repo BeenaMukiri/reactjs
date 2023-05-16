@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/BeenaMukiri/reactjs.git/static/css/main.e6c13ad2.css",
+    "main.js": "/BeenaMukiri/reactjs.git/static/js/main.a5c2a87a.js",
+    "static/js/787.382a8327.chunk.js": "/BeenaMukiri/reactjs.git/static/js/787.382a8327.chunk.js",
+    "index.html": "/BeenaMukiri/reactjs.git/index.html",
+    "main.e6c13ad2.css.map": "/BeenaMukiri/reactjs.git/static/css/main.e6c13ad2.css.map",
+    "main.a5c2a87a.js.map": "/BeenaMukiri/reactjs.git/static/js/main.a5c2a87a.js.map",
+    "787.382a8327.chunk.js.map": "/BeenaMukiri/reactjs.git/static/js/787.382a8327.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.a5c2a87a.js"
+  ]
+}
